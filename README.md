@@ -12,7 +12,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=dahiyasahil44&theme=radical&date_format=j%20M%5B%20Y%5D)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dahiyasahil44&theme=radical)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dahiyasahil44&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dahiyasahil44&layout=compact&theme=radical)
 
