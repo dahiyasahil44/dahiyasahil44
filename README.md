@@ -6,10 +6,14 @@
 - 🎯 Goals: Become a full-stack developer
 - ⚡ Fun fact: I enjoy solving coding puzzles
 
-## 🛠️ Languages and Tools
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js&logoColor=white)
+## 🛠️ Languages and Tools  
+
+Here are some of the technologies I've been working with:  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,firebase,git" alt="Tech Stack" />
+</p>
+
 
 ## 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dahiyasahil44&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800)
